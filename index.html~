@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<title>Mi Pagina</title>
-		<link rel="stylesheet" href="assets/estilos.css">
 	<head>
 	<body>
 		<h1>Esta es mi imagen preferida</h1>
